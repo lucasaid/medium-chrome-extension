@@ -1,0 +1,7 @@
+body {
+    color: white !important;
+    background-color: black !important;
+}
+.screenContent, .canvas-renderer {
+    background-color: black !important;
+}
