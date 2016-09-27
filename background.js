@@ -9,6 +9,7 @@ chrome.browserAction.onClicked.addListener(function (tab) { //Fired when User Cl
             "file": "medium.js"
         }, function () { // Execute your code
             console.log("Script Executed .. "); // Notification on Completion
+
         });
 
     }
